@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImage from '../assets/Gemini_Generated_image.png';
+import heroImage from '../assets/Gemini_Generated_Image.png';
 
 const HeroSection: React.FC = () => {
     return (
