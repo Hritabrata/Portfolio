@@ -34,7 +34,7 @@ const FeaturedProject: React.FC = () => {
         {
             title: "Common Admission Portal 2026",
             description: "The official centralized platform for admission to Polytechnic & ITI courses. Empowering youth through technical skill development.",
-            url: "https://vigpl.com/",
+            url: "https://admission-tetsd.wb.gov.in",
             tag: "West Bengal Education Portal",
             color: "#7C3AED"
         }
